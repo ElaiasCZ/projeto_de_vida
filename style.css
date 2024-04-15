@@ -89,10 +89,26 @@ body {
 }
 
 .contador{  /*aula6*/
-    font-size: 20px;
-    text-align: center;
+    display: flex;
+    justify-content: center;
 }
 
+.contador-digito{
+    padding: 0 16px;
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+.contador-digito-numero{
+    font-size: 80px;
+    margin: 0;
+}
+
+.contador-digito-texto{
+    color: var(--rosa);
+    font-size: 20px;
+    margin: 0;
+}
 @media screen and (min-width: 768px) {
     .botoes {
         display: flex;
