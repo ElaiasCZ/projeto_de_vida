@@ -193,7 +193,7 @@ const tempoObjetivo5 = new Date("2025-11-27T00:00:00");
 
 //automatizar o código, criar uma variável chamada tempos, que receberá uma lista.
 const tempos =
-[tempoObjetivo1,tempoObjetivo2,tempoObjetivo3,tempoObjetivo4];
+[tempoObjetivo1,tempoObjetivo2,tempoObjetivo3,tempoObjetivo4,tempoObjetivo5];
 
 /*substituindo o valor do índice (0) pela variável contadora i.
 for (let i = 0; i < contadores.length; i++) {
