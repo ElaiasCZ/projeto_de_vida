@@ -62,7 +62,7 @@ body {
 
 .botao-ativo{
     background-color: var(--botao-ativo);
-    border-bottom: 6px solid var(--rosa);
+    border-bottom: 20px solid var(--rosa);
 }
 
 .abas-textos{
